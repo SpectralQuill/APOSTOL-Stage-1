@@ -10,4 +10,4 @@ http.createServer( ( req, res ) => {
 } ).listen( 3000 );
 
 // Running:
-// node main.js
+// npm start
